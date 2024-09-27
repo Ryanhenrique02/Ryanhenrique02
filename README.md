@@ -9,7 +9,7 @@
 
   <a href="https://github.com/Ryanhenrique02">
     <img width="45.2%" src="https://github-readme-stats.vercel.app/api?username=ryanhenrique02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="49.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanhenrique02&layout=compact&langs_count=16&theme=algolia"/>
+    <img width="49.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanhenrique02&layout=compact&langs_count=16&theme=algolia"/>
   </a>
 
 </div>
